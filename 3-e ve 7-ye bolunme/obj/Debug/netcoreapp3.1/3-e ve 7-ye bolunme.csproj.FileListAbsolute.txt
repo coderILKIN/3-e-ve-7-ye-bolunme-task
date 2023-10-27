@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.exe
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.deps.json
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.runtimeconfig.json
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.dll
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\bin\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.pdb
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.dll
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.pdb
+C:\Users\ilkin\source\repos\3-e ve 7-ye bolunme\3-e ve 7-ye bolunme\obj\Debug\netcoreapp3.1\3-e ve 7-ye bolunme.genruntimeconfig.cache
